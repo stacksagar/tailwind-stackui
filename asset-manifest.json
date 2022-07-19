@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tailwind-stackui/static/css/main.dc648605.css",
-    "main.js": "/tailwind-stackui/static/js/main.a7a316fe.js",
+    "main.js": "/tailwind-stackui/static/js/main.85674011.js",
     "static/media/hero-shape-1.svg": "/tailwind-stackui/static/media/hero-shape-1.61eb129f3393cb6d2842.svg",
     "static/media/hero-shape-2.svg": "/tailwind-stackui/static/media/hero-shape-2.80a23e121db5c1edf5d1.svg",
     "static/media/hero-image-dark.svg": "/tailwind-stackui/static/media/hero-image-dark.67e2e37cb82d65b16864757609800a47.svg",
@@ -9,10 +9,10 @@
     "static/media/component.svg": "/tailwind-stackui/static/media/component.1933f6baea814dfac56ee66f994f6d60.svg",
     "index.html": "/tailwind-stackui/index.html",
     "main.dc648605.css.map": "/tailwind-stackui/static/css/main.dc648605.css.map",
-    "main.a7a316fe.js.map": "/tailwind-stackui/static/js/main.a7a316fe.js.map"
+    "main.85674011.js.map": "/tailwind-stackui/static/js/main.85674011.js.map"
   },
   "entrypoints": [
     "static/css/main.dc648605.css",
-    "static/js/main.a7a316fe.js"
+    "static/js/main.85674011.js"
   ]
 }
