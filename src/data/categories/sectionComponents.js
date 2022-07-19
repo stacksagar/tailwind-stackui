@@ -1,7 +1,6 @@
 const sectionComponents = {
   "hero section": {},
   "feature sections": {},
-  "feature sections": {},
   "cta sections": {},
   "pricing sections": {},
   "header sections": {},

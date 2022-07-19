@@ -58,7 +58,7 @@ const CategoriesSection = ({ all_components_screen }) => {
         c.toLowerCase().includes(filter_text.toLowerCase())
       )
     );
-  }, [filter_text]);
+  }, [filter_text, active_component_category]);
 
   useEffect(() => {
     set_ph(categories_parent_ref?.current?.clientHeight);

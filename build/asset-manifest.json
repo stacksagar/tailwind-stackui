@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/tailwind-stackui/static/css/main.551e2c8b.css",
-    "main.js": "/tailwind-stackui/static/js/main.e5802236.js",
+    "main.css": "/tailwind-stackui/static/css/main.dc648605.css",
+    "main.js": "/tailwind-stackui/static/js/main.85674011.js",
     "static/media/hero-shape-1.svg": "/tailwind-stackui/static/media/hero-shape-1.61eb129f3393cb6d2842.svg",
+    "static/media/hero-shape-2.svg": "/tailwind-stackui/static/media/hero-shape-2.80a23e121db5c1edf5d1.svg",
     "static/media/hero-image-dark.svg": "/tailwind-stackui/static/media/hero-image-dark.67e2e37cb82d65b16864757609800a47.svg",
     "static/media/hero-image-light.svg": "/tailwind-stackui/static/media/hero-image-light.5e1b06e64dd8777ffee5c8e017a4c78b.svg",
     "static/media/component.svg": "/tailwind-stackui/static/media/component.1933f6baea814dfac56ee66f994f6d60.svg",
     "index.html": "/tailwind-stackui/index.html",
-    "main.551e2c8b.css.map": "/tailwind-stackui/static/css/main.551e2c8b.css.map",
-    "main.e5802236.js.map": "/tailwind-stackui/static/js/main.e5802236.js.map"
+    "main.dc648605.css.map": "/tailwind-stackui/static/css/main.dc648605.css.map",
+    "main.85674011.js.map": "/tailwind-stackui/static/js/main.85674011.js.map"
   },
   "entrypoints": [
-    "static/css/main.551e2c8b.css",
-    "static/js/main.e5802236.js"
+    "static/css/main.dc648605.css",
+    "static/js/main.85674011.js"
   ]
 }
