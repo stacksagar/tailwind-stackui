@@ -1,0 +1,49 @@
+#home_section {
+  position: relative;
+}
+
+#home_section::after,
+#home_section::before {
+  content: "";
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-size: contain;
+  background-position: top right;
+  background-repeat: no-repeat;
+  background-origin: border-box;
+}
+#home_section::after {
+  background-position: top left;
+  background-size: 350px;
+  background-image: url("./assets/images/hero-shape-1.svg");
+  opacity: 0.5;
+}
+
+#home_section::before {
+  background-image: url("./assets/images/hero-shape-2.svg");
+  opacity: 0.2;
+}
+
+@media (max-width: 1023px) {
+  #home_section::before {
+    background-image: transparent;
+  }
+}
+
+#home_section_overlay {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 20;
+}
