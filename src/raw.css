@@ -15,8 +15,8 @@
   bottom: 0;
   background-size: contain;
   background-position: top right;
-  background-repeat: no-repeat;
   background-origin: border-box;
+  background-repeat: no-repeat;
 }
 #home_section::after {
   background-position: top left;
